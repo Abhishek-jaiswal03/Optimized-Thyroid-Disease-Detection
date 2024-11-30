@@ -3,13 +3,23 @@ This project is a web application built using Flask that predicts thyroid diseas
 
 # Key Components
 ➼Flask Framework: The application is built using Flask, a lightweight web framework that allows for quick and easy development of web applications in Python. Flask handles routing, rendering HTML templates, and processing user input.
+
 ➼Machine Learning Model: The core functionality of the application is driven by a machine learning model that has been trained to recognize patterns in thyroid-related health parameters. The model is loaded using Python's pickle library, allowing it to make predictions based on input data.
+
 ➼User Interface: The application features multiple routes that guide users through the prediction process:
+
 •Home Page: Provides an introduction and navigation to different sections of the application.
+
 •More Information Page: Offers detailed information about thyroid diseases, helping users understand the conditions they are learning about.
+
 •Prediction Input Page: A form where users can input their health parameters relevant to thyroid function.
+
 •Prediction Results Page: Displays the prediction results based on the user's input, categorizing potential thyroid conditions such as compensated hypothyroid, no thyroid, primary hypothyroid, or secondary hypothyroid.
+
 # Usage Flow
 ➼Access the Application: Users can start at the homepage and navigate to the prediction section.
+
 ➼Input Health Data: In the prediction form, users fill in their health-related information, including age, gender, and various thyroid hormone levels.
+
 ➼Receive Predictions: After submitting the form, the application processes the data and provides a prediction regarding the user's thyroid health.
+
