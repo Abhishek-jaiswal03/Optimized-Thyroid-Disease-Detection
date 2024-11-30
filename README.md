@@ -8,13 +8,13 @@ This project is a web application built using Flask that predicts thyroid diseas
 
 ➼User Interface: The application features multiple routes that guide users through the prediction process:
 
-•Home Page: Provides an introduction and navigation to different sections of the application.
+  (I) Home Page: Provides an introduction and navigation to different sections of the application.
 
-•More Information Page: Offers detailed information about thyroid diseases, helping users understand the conditions they are learning about.
+  (II) More Information Page: Offers detailed information about thyroid diseases, helping users understand the conditions they are learning about.
 
-•Prediction Input Page: A form where users can input their health parameters relevant to thyroid function.
+ (III) Prediction Input Page: A form where users can input their health parameters relevant to thyroid function.
 
-•Prediction Results Page: Displays the prediction results based on the user's input, categorizing potential thyroid conditions such as compensated hypothyroid, no thyroid, primary hypothyroid, or secondary hypothyroid.
+ (IV)Prediction Results Page: Displays the prediction results based on the user's input, categorizing potential thyroid conditions such as compensated hypothyroid, no thyroid, primary hypothyroid, or secondary hypothyroid.
 
 # Usage Flow
 ➼Access the Application: Users can start at the homepage and navigate to the prediction section.
