@@ -23,3 +23,19 @@ This project is a web application built using Flask that predicts thyroid diseas
 
 ➼Receive Predictions: After submitting the form, the application processes the data and provides a prediction regarding the user's thyroid health.
 
+# Result
+
+
+![image](https://github.com/user-attachments/assets/3c078da7-c720-49c2-9798-5954bc6a5112)
+
+## ➼ Homepage
+![image](https://github.com/user-attachments/assets/0b05fd28-49c8-46b7-8fe7-b61b53074b5a)
+
+## ➼ Prediction Form
+![image](https://github.com/user-attachments/assets/ffac39ec-e716-4bf6-97aa-48d3f46476e8)
+
+##  ➼ Prediction Result
+
+![image](https://github.com/user-attachments/assets/140ffed1-3332-4e11-8cf2-a94a377a0ec5)
+
+
