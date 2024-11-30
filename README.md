@@ -1,4 +1,4 @@
-# Optimized-Thyroid-Disease-Detection:A Multi Class Approach Using ML
+# Optimized Thyroid Disease Detection:A Multi Class Approach Using ML
 This project is a web application built using Flask that predicts thyroid disease based on user input. It utilizes a pre-trained machine learning model to analyze various health parameters and provide a diagnosis. The application is designed to be user-friendly, allowing users to input their health data and receive predictions regarding their thyroid health.
 
 # Key Components
