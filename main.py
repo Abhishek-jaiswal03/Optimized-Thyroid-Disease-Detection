@@ -4,6 +4,7 @@ import pickle  # pickle to load the saved machine learning model
 import numpy as np  # numpy for handling numerical data arrays
 
 # Initialize Flask application
+
 app = Flask(__name__)
 
 # Load the pre-trained machine learning model from a file
